@@ -14,14 +14,34 @@ Notes: Flow added to documentation. @ahamil53 check for needed changes. Thanks!
 Notes: Inventory Management Sys repo has a pre built sqlite db in the Inventory folder. We could modify for use.
  Create app python code
 Notes: Inventory Mgt System repo has a python file called app.py that we could modify. Notes: Check code from D2L grade tracker for log-in info.
- Create HTML and CSS templates for fask pages
- Log-in
- Home Screen
- Add Recipe
- Manage User Inventory
- Manage Budget??
- Select Meal plans for the week
- Generate Grocery list
+
+Sprint 2
+
+UPDATE 1: Change more specific to the user by adding the question of 
+mother's madien name in order to come up with a random password that best fits user 
+DONE
+-changed the code's wording in each section , started to have problems but there was minor 
+spelling error 
+-kept reapplying 
+UPDATE 2: Change the nick name of partner and instead do the first car color for the user
+( I did not like the partner's nickname that had nothing do with the single user.
+DONE
+
+UPDATE 3: Make it more easier for the user to input information I change the input to the code
+make it more user friendly
+
+DONE
+UPDATE 4: ADD more questions than the ones easily put in the code the ones of my choosing. 
+DONE
+
+UPDATE 5: ADD a social security section where it asks the last 4 of your social to the code
+-Looked up a way to add a social security section of the code so that it may 
+-Started messing up my code completly 
+DONE
+
+UPDATE 6:LAST REPLACE a new repository, to make it more of my own but keep the same guidelines of the tutorial 
+DONE 
+ 
 Sprint 3
 
  Create one PowerPoint slide introducing your project and upload it.
